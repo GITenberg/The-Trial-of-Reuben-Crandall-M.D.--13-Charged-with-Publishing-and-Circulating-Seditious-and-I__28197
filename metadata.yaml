@@ -1,0 +1,33 @@
+_repo: The-Trial-of-Reuben-Crandall-M.D.--13-Charged-with-Publishing-and-Circulating-Seditious-and-I__28197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2009-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crandall, Reuben, 1805?-1838 -- Trials, litigation, etc.'
+- !lcc 'AC'
+- !lcsh 'American Anti-Slavery Society'
+- !lcsh 'Slavery -- Washington (D.C.)'
+- !lcsh 'Trials (Seditious libel) -- Washington (D.C.)'
+- !lcc 'KF'
+title: "The Trial of Reuben Crandall, M.D.\r\nCharged with Publishing and Circulating\
+  \ Seditious and Incendiary Papers, &c. in the District of Columbia, with the Intent\
+  \ of Exciting Servile Insurrection. Carefully Reported, and Compiled from the Written\
+  \ Statements of the Court and the Counsel."
+url: http://www.gutenberg.org/ebooks/28197
