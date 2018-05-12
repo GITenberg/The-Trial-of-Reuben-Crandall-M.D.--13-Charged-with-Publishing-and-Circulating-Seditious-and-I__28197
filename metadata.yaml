@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28197#The-Trial-of-Reuben-Crandall-M.D.--13-Charged-with-Publishing-and-Circulating-Seditious-and-I_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2009-02-26'
 gutenberg_type: Text
